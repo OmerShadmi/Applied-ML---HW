@@ -28,6 +28,7 @@ Quantile regression offers a more flexible approach than traditional linear regr
 
 # Second Notebook: Gradient Boosting Classifier with Hyperparameter Tuning
 
+In this task we get a dataset about the titanic. Our goal is to predict the destiny of the passenger (survived or not) based on his/her attributes.
 This project demonstrates the implementation and optimization of a **Gradient Boosting Classifier** for a binary classification problem. The notebook showcases how to fine-tune hyperparameters to improve model performance.
 
 ## Project Structure
